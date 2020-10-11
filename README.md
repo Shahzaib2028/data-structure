@@ -24,3 +24,9 @@ Stack
 Queue
 
 Reverse string using stack
+
+Binary search
+
+Linear search
+
+Sorting algos (bubble sort, insertion sort, selection sort)
