@@ -11,6 +11,8 @@ Binary search tree BST
 
 Dijkstras algo
 
+prims algo
+
 Link List
 
 Double Link List
